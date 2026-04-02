@@ -35,6 +35,7 @@
 ![e-book][e-book]
 
 - [함께해요 파이썬 생태계](https://wikidocs.net/book/14021) - 설명. `e-book` `wikidocs`
+- [스탠포드 CS 25 트랜스포머](https://web.stanford.edu/class/cs25/) - 설명. `CS25` `course`
 
 ## Useful Tools
 
